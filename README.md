@@ -2,9 +2,9 @@
 
 ## I'm a Developer. Im currently working on:
 
-- 💻 Building a simple chat app @ [Realtime Chat][realtimechatwithnode.herokuapp.com]
+- 💻 Building a simple chat app @ [Realtime Chat](https://realtimechatwithnode.herokuapp.com)
 - 🕸️ Learning web development specifically MERN stack & LAMP stack
-- 🤖 Learning computer science with [OSSU][github.com/ossu/computer-science]
+- 🤖 Learning computer science with [OSSU](https://github.com/ossu/computer-science)
 
 ### Contact me
 
