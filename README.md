@@ -1,8 +1,6 @@
 # Hi there, I'm Amir
 
-## I'm a developer & I'm currently working on:
-
-- 💻 Building a simple chat app @ [Realtime Chat](https://realtimechatwithnode.herokuapp.com)
+## I'm a web developer & I'm currently working on:
 - 🕸️ Learning web development (MERN & LAMP)
 - 🤖 Learning computer science with [OSSU](https://github.com/ossu/computer-science)
 
