@@ -1,7 +1,10 @@
 # Hi there, I'm Amir
 
-## I'm a web developer & I'm currently working on:
-- 🕸️ Learning web development (MERN & LAMP)
+## I'm a web developer
+## My tech stack are MERN and LAMP
+## I'm currently working on:
+- 💻 Learning react & node
+- 💽 Learning laravel
 - 🤖 Learning computer science with [OSSU](https://github.com/ossu/computer-science)
 
 ### Contact me
