@@ -1,7 +1,18 @@
 # Hi there, I'm Amir
+I'm a web developer
 
-## I'm a web developer
-## My tech stack are MERN and LAMP
+## My tech stack:
+MERN stack:
+  - Mongo
+  - React
+  - Node w/ Express
+  - Heroku
+
+LAMP Stack:
+  - MySQL & PostgreSQL
+  - React
+  - PHP w/ Laravel
+
 ## I'm currently working on:
 - 💻 Learning react & node
 - 💽 Learning laravel
