@@ -15,6 +15,7 @@ LAMP Stack:
 ## I'm currently working on:
 - 💻 Building a CMS blog with Laravel
 - 💽 Building a RTC game with Node
+- ⚙⚙️ Solving challenges & problems on leetcode & frontendmentor
 - 🤖 Learning & improving my knowledge through online medium
 
 ### Contact me
